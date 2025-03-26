@@ -1,0 +1,239 @@
+.akademnashr {
+    width: 1440px;
+    height: 2726px;
+    color: #FFFFFF;
+}
+/*          SAHIFANING BOSH QISMI       */
+.header nav li a {
+    font-size: 13px;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+#login {
+    width: 155px;
+    height: 39px;
+    background-color: #FF7500;
+    color: #FFFFFF;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    line-height: 1;
+}
+
+
+/*        SAHIFANING KITOBNI REKLAMA QILGAN QISMI          */
+
+
+.advertisement {
+    background-color: #252420;
+    width: 1440px;
+    height: 488px;
+}
+
+.advertisement div {
+    width: 387px;
+    height: 328px;
+}
+
+.advertisement hr {
+    color: #FF7500;
+}
+
+.advertisement img {
+    float: right;
+    width: 510px;
+    right: 510px;
+}
+
+.advertisement h2 {
+    color: white;
+    font-size: 40px;
+    width: 339px;
+    height: 96px;
+    letter-spacing: 0.5px;
+    line-height: 1.2;
+}
+
+.advertisement p {
+    width: 387px;
+    height: 96px;
+    letter-spacing: 0.5px;
+    color: white;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#order {
+    width: 152px;
+    height: 39px;
+    background-color: #FF7500;
+    color: white;
+    text-decoration: none;
+    line-height: 1;
+    letter-spacing: 0.5px;
+}
+
+
+
+
+ /*       NEGA AYNAN AKADEMNASHR ?        */
+
+
+ .about {
+    color: white;
+    width: 1440px;
+    height: 936px;
+ }
+
+.about hr {
+    border: 2px solid #FF7500;
+}
+
+
+ .about h2 {
+    width: 435px;
+    height: 172px;
+    font-size: 72px;
+    line-height: 1.2;
+ }
+
+ .about ul {
+    width: 1100px;
+    height: 245px;
+ }
+
+ .about ul li img {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 117, 0, 0.2);
+ }
+
+
+.about li {
+    width: 340px;
+    height: 245px;
+}
+
+.about h3 {
+    height: 29px;
+    color: black;
+    font-size: 24px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+}
+
+.about ul li:nth-child(1) h3{
+    width: 214px;
+}
+
+.about ul li:nth-child(2) h3{
+    width: 170px;
+}
+
+.about ul li:nth-child(3) h3{
+    width: 196px;
+}
+
+.about p {
+    width: 314px;
+    height: 72px;
+    color: #000000;
+    letter-spacing: 0.5px;
+    line-height: 1.5;
+    font-size: 16px;
+
+}
+
+
+
+
+/*        SAYTDAGI AKSIYA QISMI        */
+
+.action {
+    margin-top: 120px; /* Aksiya qismini pastroqqa suradi */
+}
+
+
+.action {
+    background-color: #252420;
+    width: 1100px;
+    height: 419px;
+}
+
+.action h2 {
+    width: 373px;
+    height: 96px;
+    font-size: 40px;
+    color: white;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+}
+
+.action p {
+    width: 440px;
+    height: 96px;
+    font-size: 16px;
+    color: white;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+}
+
+.action p strong{
+    color: #FF7500;
+}
+
+.action img {
+    float: right;
+    width: 440px;
+    height: 440px;
+}
+
+
+
+/*         SAYTNING PODVAL QISMI           */
+
+
+.navigator-footer {
+    width: 1440px;
+    height: 507px;
+    background-color: #F8F8F8 ;
+}
+
+hr {
+    color: rgba(37, 36, 32, 0.5);
+}
+.navigator-footer  div ul li a {
+    font-size: 16px;
+    color: #252420;
+    text-decoration: none;
+    width: 19px;
+    letter-spacing: 0px;
+    line-height: 1;
+}
+
+
+#orange-color {
+    color: #FF7500;
+}
+
+.nav-header {
+    width: 224px;
+    height: 159px;
+}
+
+.nav-book {
+    width: 224px;
+    height: 229px;
+}
+
+.nav-about {
+    width: 224px;
+    height: 89px;
+}
+
+.nav-site-admin {
+    width: 224px;
+    height: 89px;
+}
